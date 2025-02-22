@@ -1,12 +1,12 @@
 # mordecaijr.github.io
 
-🎁 Amigo Secreto
+<h1 align="center">🎁 Amigo Secreto</h1>
 
-<h1 align="center">📌 Descrição projeto amigo secreto</h1>
+<h2 align="center">📌 Descrição projeto amigo secreto</h2>
 
 <p align="center">O Amigo Secreto é um aplicativo web simples que permite adicionar amigos a uma lista e sortear aleatoriamente um nome entre eles. Ideal para festas, confraternizações e eventos, o projeto facilita a organização do tradicional jogo de amigo secreto.</p>
 
-<h2 align="center">🚀 Funcionalidades</h2>
+<h3 align="center">🚀 Funcionalidades</h3>
 
 <p1 align="center">Adicionar nomes de amigos à lista.</p1>
 
@@ -16,33 +16,31 @@
 
 <p4 align="center">Exibir o nome do amigo sorteado na tela.</p4>
 
-🛠️ Como Utilizar
+<h3 align="center">🛠️ Como Utilizar</h3>
 
-Digite o nome de um amigo no campo de entrada.
+<p1 align="center">Digite o nome de um amigo no campo de entrada.</p1>
 
-Clique no botão "Adicionar" para salvar o nome na lista.
+<p2 align="center">Clique no botão "Adicionar" para salvar o nome na lista.</p2>
 
-Após adicionar todos os amigos, clique no botão "Sortear Amigo".
+<p3 align="center">Após adicionar todos os amigos, clique no botão "Sortear Amigo".</p3>
 
-O nome sorteado será exibido na tela.
+<p4 align="center">O nome sorteado será exibido na tela.</p4>
 
-❓ Suporte e Ajuda
+<h3 align="center">❓ Suporte e Ajuda</h3>
 
-Caso tenha dúvidas ou encontre problemas, você pode:
+<p1 align="center">Caso tenha dúvidas ou encontre problemas, você pode:</p1>
 
-Verificar o código-fonte e a estrutura do projeto.
+<p2 align="center">Verificar o código-fonte e a estrutura do projeto.</p2>
 
-Abrir uma issue no repositório do GitHub (se disponível).
+<p3 align="center">Abrir uma issue no repositório do GitHub (se disponível).</p3>
 
-Entrar em contato com os autores do projeto.
+<p4 align="center">Entrar em contato com os autores do projeto.</p4>
 
-👨‍💻 Autores
+<h2 align="center">👨‍💻 Autores</h2>
 
-[Seu Nome] - Desenvolvimento e implementação.
+<p1 align="center">[Mardoqueu Junior] - Desenvolvimento e implementação.</p1>
 
-Se houver outros colaboradores, inclua seus nomes aqui!
+<h3 align="center">📜 Licença</h3>
 
-📜 Licença
-
-Este projeto é de código aberto e pode ser modificado e distribuído livremente.
+<p1 align="center">Este projeto é de código aberto e pode ser modificado e distribuído livremente.</p1>
 
