@@ -8,13 +8,13 @@
 
 <h3 align="center">🚀 Funcionalidades</h3>
 
-<p1 align="center">Adicionar nomes de amigos à lista.</p1>
+<p1 align="center">`Funcionalidade 1`: Adicionar nomes de amigos à lista.</p1>
 
-<p2 align="center">Exibir a lista de amigos cadastrados.</p2>
+<p2 align="center">`Funcionalidade 2`: Exibir a lista de amigos cadastrados.</p2>
 
-<p3 align="center">Sortear um amigo aleatoriamente.</p3>
+<p3 align="center">`Funcionalidade 3`: Sortear um amigo aleatoriamente.</p3>
 
-<p4 align="center">Exibir o nome do amigo sorteado na tela.</p4>
+<p4 align="center">`Funcionalidade 4`: Exibir o nome do amigo sorteado na tela.</p4>
 
 <h3 align="center">🛠️ Como Utilizar</h3>
 
