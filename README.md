@@ -44,3 +44,10 @@
 
 <p1 align="center">Este projeto é de código aberto e pode ser modificado e distribuído livremente.</p1>
 
+<h2 align="center">Tecnologias utilizadas no projeto</h2>
+
+<p1 align="center">`° JavaScript`</p1>
+
+<p2 align="center">`° HTML`</p2>
+
+<p3 align="center">`° CSS`</p3>
